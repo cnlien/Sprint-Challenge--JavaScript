@@ -42,10 +42,10 @@ Edit this document to include your answers after each question. Make sure to lea
 
  **4. Describe the four rules of the 'this' keyword.**
 
-    1) **Window/Global:**  `this` when used in the Global Scope will be the Object
-    2) **Implicit:** When invoked with a preceding dot, the Object before the dot is `this`
-    3) **New:** When invoked with a constructor function `this` is the specific Object that is created
-    4) **Explicit:** Refers to when `.call` and `.apply` are used. `this` is explicitly defined.
+    1) Window/Global: `this` when used in the Global Scope will be the Object
+    2) Implicit: When invoked with a preceding dot, the Object before the dot is `this`
+    3) New: When invoked with a constructor function `this` is the specific Object that is created
+    4) Explicit: Refers to when `.call` and `.apply` are used. `this` is explicitly defined.
 
 **5. Why do we need super() in an extended class?**
 
